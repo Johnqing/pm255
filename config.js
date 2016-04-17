@@ -1,0 +1,6 @@
+module.exports = {
+	KEYMETRICS_NODE: '',
+	DEFAULT_MODULE_JSON: false,
+	REMOTE_PORT_TCP: 41624,
+	REMOTE_HOST: ''
+}
